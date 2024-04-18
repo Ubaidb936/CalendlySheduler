@@ -7,7 +7,7 @@
 4. to activate the venv run source `source venv/bin/activate` for macOS
 5. run `pip install -r requirements.txt` to install dependencies...
 6. Settup the Variables in the config.py file
-7.  run `uvicorn main:app --reload ` to run FASTAPI Application. if there is error `any module not found` Please the command in new terminal
+7.  run `uvicorn main:app --reload ` to run FASTAPI Application. if there is error `any module not found` Please switch to new terminal tab
 8.  Go to `localhost:8000/chat?user_input= list all my events?` to test the application
 
 ### Thanks!!!!
