@@ -1,5 +1,5 @@
 
-### How to run the project
+### How to run the project 📅
 
 1. clone the repository: `https://github.com/Ubaidb936/CalendlySheduler.git`
 2. Cd into CalendlySheduler:  `cd CalendlySheduler`
